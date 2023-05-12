@@ -18,7 +18,7 @@ pnpm i
 pnpm dev
 ```
 
-### Run Node.js server
+### Run React client
 
 ```bash
 cd web
@@ -33,3 +33,7 @@ pnpm dev
 ```
 
 Node.js server will run on port 3333, and React client on port 5173.
+
+## License
+
+MIT
