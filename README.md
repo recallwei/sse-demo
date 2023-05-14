@@ -1,6 +1,6 @@
-# Chat Room Demo
+# SSE Demo
 
-⭐ React SSE (Server Send Event) React + Express Demo.
+⭐ SSE (Server Send Event) React + Express Demo.
 
 ## Usage
 
